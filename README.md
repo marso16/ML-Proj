@@ -30,8 +30,11 @@ Desired Accuracy >= 90%
 Cost of misclassification: 
 FPR: tolerable up to 2% with the presence of a SOC team.
 
+***********************************************************************************************************
 GitHub Repo https://github.com/marso16/ML-Proj
+
 Data Source https://www.kaggle.com/datasets/cicdataset/cicids2017/data
+
 Videos https://drive.google.com/drive/u/2/folders/1IQ9LdVAZXQ3VUqeFDgYW6r1Mi41NZQLH
 
 
