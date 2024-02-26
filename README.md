@@ -4,11 +4,7 @@ In this iteration we have tried to train a model to classify a network traffic a
 
 Technical Description:
 
-We have built 3 models, Logistic Regression, Autoencoders and CNN.
-
-Autoencoder:
-
-Autoencoder helps to classify the traffic but it also further helps with detecting traffic anomalies by reconstructing the data. If the difference between the original and reconstructed log is significantly higher than usual, it indicates an anomaly.
+We have built 2 models, Logistic Regression and CNN.
 
 Logistic Regression:
 
