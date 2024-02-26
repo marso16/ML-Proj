@@ -4,7 +4,7 @@ In this iteration we have tried to train a model to classify a network traffic a
 
 Technical Description:
 
-We have built 2 models, using Logistic Regression and Autoencoder.
+We have built 3 models, Logistic Regression, Autoencoders and CNN.
 
 Autoencoder:
 
@@ -13,6 +13,10 @@ Autoencoder helps to classify the traffic but it also further helps with detecti
 Logistic Regression:
 
 Well suited for binary classification, and it helps classifying the traffic as attack or benign
+
+CNN:
+
+Uses convolutional layers to automatically and hierarchically learn spatial features, in the context of network security, analyzing patterns in sequential data like network traffic.
 
 Attack Types:
 
