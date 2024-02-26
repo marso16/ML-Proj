@@ -12,7 +12,7 @@ Well suited for binary classification, and it helps classifying the traffic as a
 
 CNN:
 
-Uses convolutional layers to automatically and hierarchically learn spatial features, in the context of network security, analyzing patterns in sequential data like network traffic.
+Uses convolutional layers to learn spatial features automatically and hierarchically, in the context of network security, analyzing patterns in sequential data like network traffic.
 
 Attack Types:
 
