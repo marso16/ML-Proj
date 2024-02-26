@@ -1,4 +1,4 @@
-Iteration 1
+**Iteration 1**
 
 In this iteration we have tried to train a model to classify a network traffic as malicious or not, in order to help identify attacks in a network traffic log.
 
